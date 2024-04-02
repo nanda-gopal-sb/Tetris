@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D8B185-D62B-1346-89FE-A8C611707653}|Assembly-CSharp.csproj|D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\assets\\scripts\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D8B185-D62B-1346-89FE-A8C611707653}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D8B185-D62B-1346-89FE-A8C611707653}|Assembly-CSharp.csproj|d:\\nandu projects\\game_dev\\(game)\\learninggames\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D8B185-D62B-1346-89FE-A8C611707653}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D8B185-D62B-1346-89FE-A8C611707653}|Assembly-CSharp.csproj|D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\assets\\scripts\\tetronimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D8B185-D62B-1346-89FE-A8C611707653}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetronimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\Assets\\Scripts\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data.cs",
+              "ToolTip": "D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\Assets\\Scripts\\Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:32:42.841Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\Assets\\Scripts\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
+              "ToolTip": "D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\Assets\\Scripts\\Board.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:44:59.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tetronimo.cs",
+              "DocumentMoniker": "D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\Assets\\Scripts\\Tetronimo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetronimo.cs",
+              "ToolTip": "D:\\Nandu Projects\\Game_Dev\\(Game)\\LearningGames\\Assets\\Scripts\\Tetronimo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetronimo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:31:25.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
